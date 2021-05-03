@@ -1,0 +1,1 @@
+{"success":true,"data":{"output":{"results":[{"className":"car","score":"1.000","bbox":{"xmin":543,"ymin":320,"xmax":648,"ymax":400}},{"className":"car","score":"1.000","bbox":{"xmin":263,"ymin":322,"xmax":394,"ymax":431}},{"className":"car","score":"0.999","bbox":{"xmin":441,"ymin":325,"xmax":509,"ymax":382}}]}}}
